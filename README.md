@@ -1,9 +1,9 @@
-## 後臺管理系統-權限數
+##手机模板三
 
 ## Build Setup
 ``` bash
 npm install
-# serve with hot reload at localhost:8888
+# serve with hot reload at localhost:5555
 npm run dev
 npm run build
 ```
@@ -17,7 +17,4 @@ assetsPublicPath: './';
 ```javascript
 // export const CONTEXT = './Vue-Admin';
 export const CONTEXT = 'Your path name';
-```
-
-## 页面截图
 
